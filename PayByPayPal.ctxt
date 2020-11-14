@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PayByPayPal
+comment1.params=
+comment1.target=void\ collectPaymentDetails()
+comment2.params=paymentAmount
+comment2.target=boolean\ pay(int)
+comment3.params=signedIn
+comment3.target=void\ setSignedIn(boolean)
+numComments=4

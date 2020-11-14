@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PayStrategy
+comment1.params=paymentAmount
+comment1.target=boolean\ pay(int)
+comment2.params=
+comment2.target=void\ collectPaymentDetails()
+numComments=3

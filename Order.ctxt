@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Order
+comment1.params=strategy
+comment1.target=void\ processOrder(PayStrategy)
+comment2.params=cost
+comment2.target=void\ setTotalCost(int)
+comment3.params=
+comment3.target=int\ getTotalCost()
+comment4.params=
+comment4.target=boolean\ isClosed()
+comment5.params=
+comment5.target=void\ setClosed()
+numComments=6
